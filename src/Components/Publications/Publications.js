@@ -10,10 +10,10 @@ const Publications = () => {
         .then(data=>setPublications(data))
     },[])
     return (
-        <main>
-            <div>
-                <section>
-                    <h1>Publications</h1>
+        <main style={{marginTop:"110px",backgroundColor:'rgb(247,247,247)'}}>
+            <div  className='d-flex justify-content-center' style={{paddingTop:'110px',paddingLeft:'150px',paddingRight:'150px'}}>
+                <section style={{marginRight:'100px'}}>
+                    <p style={{fontSize:'2.90rem',fontFamily:'Montserrat,sans-serif',color:'#313131',fontWeight:''}}>Publications</p>
                 </section>
                 <section>
                     {
