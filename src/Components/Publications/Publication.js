@@ -4,7 +4,6 @@ import { Button } from 'react-bootstrap';
 
 const Publication = ({publication}) => {
     const{title,abstract,authors,published,image,pdf,type_of_published,video} = publication
-    console.log(publication)
     return (
         <section className='d-flex mb-5'>
             <div className='me-4' style={{width:'600px'}}>
