@@ -5,7 +5,9 @@
         "date":"Sep 1 2019",
         "site":"https://costar.jpl.nasa.gov/",
         "image":"https://mfadhilgtg.github.io/project/external-project/featured_hub183ba098d8a15a583d9238a0bc5de59_982063_720x0_resize_q90_lanczos.jpg",
-        "description":"Terrestrial underground robotic exploration has gained popularity from DARPA Subterranean (SubT) Challenge program. The SubT Challenge require team of robots to rapidly explore, map, navigate and search underground environments with minimal command from a single human supervisor. The SubT Challenge environments are ranging from mining tunnels, abandoned power plant, and natural caves, where robot deployment are important for human safety in various scenarios."
+        "description":"Terrestrial underground robotic exploration has gained popularity from DARPA Subterranean (SubT) Challenge program. The SubT Challenge require team of robots to rapidly explore, map, navigate and search underground environments with minimal command from a single human supervisor. The SubT Challenge environments are ranging from mining tunnels, abandoned power plant, and natural caves, where robot deployment are important for human safety in various scenarios.",
+        "category":"robotics",
+        "intro":"The DARPA Subterranean Challenge seeks novel approaches to rapidly map, navigate, and search underground environments during time-sensitive operations or disaster response scenarios."
     },
     {
         "id":2,
@@ -13,7 +15,9 @@
         "date":"Sep 1 2019",
         "site":"https://costar.jpl.nasa.gov/",
         "image":"https://mfadhilgtg.github.io/project/external-project/featured_hub183ba098d8a15a583d9238a0bc5de59_982063_720x0_resize_q90_lanczos.jpg",
-        "description":"Terrestrial underground robotic exploration has gained popularity from DARPA Subterranean (SubT) Challenge program. The SubT Challenge require team of robots to rapidly explore, map, navigate and search underground environments with minimal command from a single human supervisor. The SubT Challenge environments are ranging from mining tunnels, abandoned power plant, and natural caves, where robot deployment are important for human safety in various scenarios."
+        "description":"Terrestrial underground robotic exploration has gained popularity from DARPA Subterranean (SubT) Challenge program. The SubT Challenge require team of robots to rapidly explore, map, navigate and search underground environments with minimal command from a single human supervisor. The SubT Challenge environments are ranging from mining tunnels, abandoned power plant, and natural caves, where robot deployment are important for human safety in various scenarios.",
+        "category":"robotics",
+        "intro":"The DARPA Subterranean Challenge seeks novel approaches to rapidly map, navigate, and search underground environments during time-sensitive operations or disaster response scenarios."
     },
     {
         "id":3,
@@ -21,6 +25,8 @@
         "date":"Sep 1 2019",
         "site":"https://costar.jpl.nasa.gov/",
         "image":"https://mfadhilgtg.github.io/project/external-project/featured_hub183ba098d8a15a583d9238a0bc5de59_982063_720x0_resize_q90_lanczos.jpg",
-        "description":"Terrestrial underground robotic exploration has gained popularity from DARPA Subterranean (SubT) Challenge program. The SubT Challenge require team of robots to rapidly explore, map, navigate and search underground environments with minimal command from a single human supervisor. The SubT Challenge environments are ranging from mining tunnels, abandoned power plant, and natural caves, where robot deployment are important for human safety in various scenarios."
+        "description":"Terrestrial underground robotic exploration has gained popularity from DARPA Subterranean (SubT) Challenge program. The SubT Challenge require team of robots to rapidly explore, map, navigate and search underground environments with minimal command from a single human supervisor. The SubT Challenge environments are ranging from mining tunnels, abandoned power plant, and natural caves, where robot deployment are important for human safety in various scenarios.",
+        "category":"robotics",
+        "intro":"The DARPA Subterranean Challenge seeks novel approaches to rapidly map, navigate, and search underground environments during time-sensitive operations or disaster response scenarios."
     }
 ]
