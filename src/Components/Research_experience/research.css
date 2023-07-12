@@ -1,0 +1,7 @@
+.research_title{
+    text-decoration: none;
+    color:black
+}
+.research_title:hover{
+    color:blue;
+}
