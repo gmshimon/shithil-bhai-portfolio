@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name":"NASA JPL Team CoSTAR for DARPA SubT Challenge",
+        "date":"Sep 1 2019",
+        "site":"https://costar.jpl.nasa.gov/",
+        "image":"https://mfadhilgtg.github.io/project/external-project/featured_hub183ba098d8a15a583d9238a0bc5de59_982063_720x0_resize_q90_lanczos.jpg",
+        "description":"Terrestrial underground robotic exploration has gained popularity from DARPA Subterranean (SubT) Challenge program. The SubT Challenge require team of robots to rapidly explore, map, navigate and search underground environments with minimal command from a single human supervisor. The SubT Challenge environments are ranging from mining tunnels, abandoned power plant, and natural caves, where robot deployment are important for human safety in various scenarios.",
+        "category":"Robotics",
+        "intro":"The DARPA Subterranean Challenge seeks novel approaches to rapidly map, navigate, and search underground environments during time-sensitive operations or disaster response scenarios."
+    },
+    {
+        "id":2,
+        "name":"NASA JPL Team CoSTAR for DARPA SubT Challenge",
+        "date":"Sep 1 2019",
+        "site":"https://costar.jpl.nasa.gov/",
+        "image":"https://mfadhilgtg.github.io/project/external-project/featured_hub183ba098d8a15a583d9238a0bc5de59_982063_720x0_resize_q90_lanczos.jpg",
+        "description":"Terrestrial underground robotic exploration has gained popularity from DARPA Subterranean (SubT) Challenge program. The SubT Challenge require team of robots to rapidly explore, map, navigate and search underground environments with minimal command from a single human supervisor. The SubT Challenge environments are ranging from mining tunnels, abandoned power plant, and natural caves, where robot deployment are important for human safety in various scenarios.",
+        "category":"Robotics",
+        "intro":"The DARPA Subterranean Challenge seeks novel approaches to rapidly map, navigate, and search underground environments during time-sensitive operations or disaster response scenarios."
+    },
+    {
+        "id":3,
+        "name":"NASA JPL Team CoSTAR for DARPA SubT Challenge",
+        "date":"Sep 1 2019",
+        "site":"https://costar.jpl.nasa.gov/",
+        "image":"https://mfadhilgtg.github.io/project/external-project/featured_hub183ba098d8a15a583d9238a0bc5de59_982063_720x0_resize_q90_lanczos.jpg",
+        "description":"Terrestrial underground robotic exploration has gained popularity from DARPA Subterranean (SubT) Challenge program. The SubT Challenge require team of robots to rapidly explore, map, navigate and search underground environments with minimal command from a single human supervisor. The SubT Challenge environments are ranging from mining tunnels, abandoned power plant, and natural caves, where robot deployment are important for human safety in various scenarios.",
+        "category":"Robotics",
+        "intro":"The DARPA Subterranean Challenge seeks novel approaches to rapidly map, navigate, and search underground environments during time-sensitive operations or disaster response scenarios."
+    },
+    {
+        "id":4,
+        "name":"URO ITB",
+        "date":"Dec 4, 2019",
+        "image":"https://mfadhilgtg.github.io/project/uro/featured_hu39c4763b8ad567eeadcd25b93e1b8c6e_243502_720x0_resize_q90_lanczos.jpg",
+        "category":"Social",
+        "title":"Robotics Student Organization, Bandung Institute of Technology"
+    },
+    {
+        "id":5,
+        "name":"URO ITB",
+        "date":"Dec 4, 2019",
+        "image":"https://mfadhilgtg.github.io/project/uro/featured_hu39c4763b8ad567eeadcd25b93e1b8c6e_243502_720x0_resize_q90_lanczos.jpg",
+        "category":"Social",
+        "title":"Robotics Student Organization, Bandung Institute of Technology"
+    },
+    {
+        "id":6,
+        "name":"URO ITB",
+        "date":"Dec 4, 2019",
+        "image":"https://mfadhilgtg.github.io/project/uro/featured_hu39c4763b8ad567eeadcd25b93e1b8c6e_243502_720x0_resize_q90_lanczos.jpg",
+        "category":"Social",
+        "title":"Robotics Student Organization, Bandung Institute of Technology"
+    }
+]
