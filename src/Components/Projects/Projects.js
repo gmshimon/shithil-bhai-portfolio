@@ -38,7 +38,7 @@ const Projects = () => {
           paddingRight: '150px'
         }}
       >
-        <section style={{ marginRight: '155px' }}>
+        <section style={{ marginRight: '170px' }}>
           <p
             style={{
               fontSize: '2.90rem',
@@ -50,8 +50,8 @@ const Projects = () => {
             Projects
           </p>
         </section>
-        <section>
-          <div>
+        <section style={{width:'800px',marginLeft: '170px'}}>
+          <div className='d-flex mb-5'>
             <ButtonGroup onClick={handleButton} size='lg' className='mb-2'>
               <Button variant="success" name="Robotics" className={buttonName==='Robotics'?'active':''}>Robotics</Button>
               <Button variant="success" name="Social" className={buttonName==='Social'?'active':''}>Social</Button>

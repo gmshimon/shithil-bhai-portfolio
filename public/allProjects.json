@@ -35,7 +35,7 @@
         "date":"Dec 4, 2019",
         "image":"https://mfadhilgtg.github.io/project/uro/featured_hu39c4763b8ad567eeadcd25b93e1b8c6e_243502_720x0_resize_q90_lanczos.jpg",
         "category":"Social",
-        "title":"Robotics Student Organization, Bandung Institute of Technology"
+        "intro":"Robotics Student Organization, Bandung Institute of Technology"
     },
     {
         "id":5,
@@ -43,7 +43,7 @@
         "date":"Dec 4, 2019",
         "image":"https://mfadhilgtg.github.io/project/uro/featured_hu39c4763b8ad567eeadcd25b93e1b8c6e_243502_720x0_resize_q90_lanczos.jpg",
         "category":"Social",
-        "title":"Robotics Student Organization, Bandung Institute of Technology"
+        "intro":"Robotics Student Organization, Bandung Institute of Technology"
     },
     {
         "id":6,
@@ -51,6 +51,6 @@
         "date":"Dec 4, 2019",
         "image":"https://mfadhilgtg.github.io/project/uro/featured_hu39c4763b8ad567eeadcd25b93e1b8c6e_243502_720x0_resize_q90_lanczos.jpg",
         "category":"Social",
-        "title":"Robotics Student Organization, Bandung Institute of Technology"
+        "intro":"Robotics Student Organization, Bandung Institute of Technology"
     }
 ]
