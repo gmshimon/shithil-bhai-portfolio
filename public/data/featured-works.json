@@ -1,147 +1,54 @@
 [
     {
-        "id":1,
+        "id":"1",
         "name":"Innovative X3CATOR Robot by UTM and JBPM Utilizes AI and 3D Mapping for Early Reconnaissance in Hazardous Situations",
         "site":"https://news.utm.my/2023/03/revolutionary-x3cator-robot-by-utm-and-jbpm-utilizes-ai-and-3d-mapping-for-early-reconnaissance-in-hazardous-situations/",
         "date":"March 1 2023",
-        "image":"https://i.ibb.co/bRChWnM/featured-work-1.jpg",
+        "image":"",
         "description":"The X3CATOR SAR robot was designed to conduct early reconnaissance Search and Rescue (SAR) missions at locations of high-risk exposure to radiation or hazardous gases. The Universiti Teknologi Malaysia (UTM) and Malaysian Fire and Rescue Department (JBPM) have developed an innovative robot intended to conduct early reconnaissance Search and Rescue (SAR) mission at the location of high-risk exposure to radiation or hazardous gases. Developed by the Centre for Artificial Intelligence and Robotics (CAIRO) UTM and the Hazardous Material Unit Team (HAZMAT) of JBPM, The X3CATOR is a semi-autonomous tracked mobile robot platform. It is a specialized and versatile robot system which is designed to operate in challenging environments for search and rescue missions. The system consists of a tracked mobile robot and a dedicated Operator Control Unit (OCU) for remote operation and monitoring. With advanced environmental perception and mobility capabilities, the X3CATOR is specifically engineered to navigate through difficult terrains and debris-filled environments encountered during search and rescue operations. It is equipped with state-of-the-art sensors, including 3D Lidar, IMU, RGB-D cameras, and front and back cameras, allowing it to gather real-time information about the surrounding environment. The collected data is processed and used to create a 3D map, enabling the robot to identify potential rescue targets and obstacles accurately. This critical information is transmitted back to the OCU through a reliable wireless communication system, facilitating seamless operator control and decision-making.",
         "intro":"The Universiti Teknologi Malaysia (UTM) and Malaysian Fire and Rescue Department (JBPM) have developed an innovative robot intended to conduct early reconnaissance Search and Rescue (SAR) mission at the location of high-risk exposure to radiation or hazardous gases.Developed by the Centre for Artificial Intelligence and Robotics (CAIRO) UTM and the Hazardous Material Unit Team (HAZMAT) of JBPM, the X3CATOR robot integrates advanced technologies such as robotics, artificial intelligence, and 3D light detection and ranging (LIDAR) mapping to assist HAZMAT in search and rescue operations.",
         "category":"robotics",
         "video":"https://youtu.be/SaSMeDtTYQY"
     },
     {
-        
-        "id":2,
+        "id":"2",
         "name":"KAROS: Indoor Inspection Aerial Robot for Confined Indoor Areas",
         "site":"https://drive.google.com/file/d/1Cxq__q4oH8SUIn9cDYT1HOgxz2RwoWK9/view?pli=1",
         "date":"Sep 12 2022",
-        "image":"https://i.ibb.co/Yb0wn1f/featured-work-2.jpg",
-        "image-2":"https://i.ibb.co/Y2tsj3q/featured-work-2-2.jpg",
+        "image":"",
+        "image-2":"",
         "description":"Visual inspection in confined space is vital for keeping critical industrial infrastructure facilities to be continuously up and running. Confined space inspection stands for hard to reach and closed or partially closed environment. Confined space is usually GPS denied means lack of GPS signal. The majority of industries, including oil and gas, mining, construction, marine, chemical, indoor infrastructure, and waste-water treatment, conduct inspections of this kind.  IKAROS is an indoor confined space inspection aerial robot which aims to inspect critical confined indoor structures. IKAROS is designed to perform semi-autonomous inspection which makes it apart from conventional aerial inspection robots. It is equipped with on board sensing and computing capabilities to fly autonomously in confined space. The robot has 4 high power brushless motors for the propulsion system. It carries depth stereo cameras for create accurate real-time 3D mapping of the confined space. For doing the heavy computations of mapping and inspection assessment IKAROS equipped with onboard computer. The operator can give high level mission commands and record real-time live video and do mapping semi autonomously. The robot can be controlled from a portable control box that comes with the robot.  The IKAROS is possible to scaled up and replicated in other countries without any modification of the hardware. Due to compact size of the IKAROS it can be operated in most of the confined structure inspections. The inspection process can be made super easy with IKAROS which can save both time and cost which is the main need for critical confined space inspection applications. Therefore, IKAROS can be a good fit for inspection industries across the globe. As the market value is seen viable, it is hoped with this support, it will be able to bring this proposal to real commercialization towards its impact to society.",
         "intro":"IKAROS is an indoor confined space inspection aerial robot which aims to inspect critical confined indoor structures. IKAROS is designed to perform semi-autonomous inspection which makes it apart from conventional aerial inspection robots. It is equipped with on board sensing and computing capabilities to fly autonomously in confined space.",
         "category":"robotics"
     },
     {
-        "id":3,
+        "id":"3",
         "name":"Vision Guided Charging Dock system for an Autonomous Mobile Robot (AMR)",
         "site":"https://youtu.be/JyiSfSpfnSA",
         "date":"Aug 12 2018",
-        "image":"https://i.ibb.co/ZLFBBms/featured-work-3.jpg",
+        "image":"",
         "description":"I developed an innovative Autonomous Vision Guided Charging Dock system for an Autonomous Mobile Robot (AMR) by utilizing an AR marker. The system showcased exceptional results, achieving a remarkable increase in docking accuracy and precision, with a margin of error as low as +- 10 cm. Moreover, to enhance the localization accuracy of the AMR, I successfully integrated data from the IMU and monocular vision camera. This fusion of information significantly reduced errors in position estimation and orientation, leading to improved overall performance. As a testament to the system's capabilities, I had the opportunity to demonstrate the Vision Guided Charging Dock in front of the West of England Mayor, Tory Tim Bowles, garnering positive feedback and appreciation for the cutting-edge technology.",
         "intro":"Autonomous Vision Guided Charging Dock system for an Autonomous Mobile Robot (AMR) by utilizing an AR marker. The system showcased exceptional results, achieving a remarkable increase in docking accuracy and precision, with a margin of error as low as +- 10 cm",
         "category":"robotics"
     },
     {
-        "id":4,
+        "id":"4",
         "name":"LUMINUV-PORTABLE Autonomous UVC Disinfection Robot",
         "site":"https://youtu.be/SuiXqGpDcBQ",
         "date":"Dec 21 2020",
-        "image":"https://i.ibb.co/BgfWvRy/featured-work-4.jpg",
+        "image":"",
         "description":"Portable UVC Disinfection Robot is a robot that aims to disinfect a room using ultraviolet radiation (UVR). A short-wave, germicidal hard ultraviolet ray, Ultraviolet C (UVC) with a wavelength of 254 nm has been used to disrupt the DNA of any organisms in contact with UVC rays, therefore leaving them unable to carry out vital cellular functions. This method is called ultraviolet germicidal irradiation (UVGI). UVC robot aims to be deployed in the hospital ward to fight against the highly contagious virus, COVID-19. The working concept of UVC robot is to emit UVC rays in a room continuously. Safety precautions have to be taken such as evacuate every person and confirm that there is no human inside the room before the UVC robot starts to operate. The UVC robot is designed by integrating a 2D laser range scanner to perform simultaneous localization and mapping (SLAM) to autonomously navigate and remotely operated the system. The web app can be used to operate the robot to navigate autonomously in the environment as well as to switch on and off the UVC light system to start the disinfection process. Features of delay start and timer mode will be included as it is essential for UVC disinfection process. Start time delay and period of disinfection can be set by the operator depending on the room size and desired disinfection factor. The microbial count will be used to determine the cleanliness of the disinfected room.",
         "intro":"Portable UVC Disinfection Robot is a robot that aims to disinfect a room using ultraviolet radiation (UVR).",
         "category":"robotics"
     },
     {
-        "id":5,
+        "id":"5",
         "name":"Last-Mile Parcel Delivery Robot",
         "site":"https://youtu.be/r2B8PaapsrM",
         "date":"Oct 10, 2020",
-        "image":"https://i.ibb.co/KXgMqhc/featured-work-5.jpg",
+        "image":"",
         "description":"Last-mile delivery distribution is the greatest obstacle faced by logistics firms in the entire process of shipping goods to customers. Damaged goods, unsuccessful distribution, and elevated traffic congestion are one of the concerns facing last-mile delivery. Last-mile delivery is both costly and challenging, and it can also damage the impression of the buyer of the entire shopping experience. Many businesses have turned to the use of delivery robots for delivery purposes with the ever-growing complexities of last-mile delivery. Robots are being designed, for example, to carry anything from food orders to packages. Because of the following advantages, the transformation of logistics towards the use of delivery robots is gaining attention. While I was working as a master trainer in a robotics training program at Polytechnic Sultan Azlan Shah (PSAS) Institute, I was involved in the development of last-mile parcel delivery robot. We have transformed an electric cart to an autonomous delivery robot. We have integrated wide variety of sensor like 3D lidar, RTK GPS, Stereo-Camera, Radar, IMU, and so on. For the main onboard computation Intel NUC was used. The crucial part of the development was navigation planning, we have implemented RTAB-Map (Real-Time Appearance-Based Mapping) using 16 channel 3D Lidar. Moreover, stereo and monocular vision will be used for lane tracking and pedestrian detection. Currently, we are working to integrate the global map of the planner with google map for point to point navigation. The development of this project is ongoing.",
         "intro":"Last-Mile Autonomous Parcel Delivery Robot",
         "category":"robotics"
-    },
-    {
-        "id":6,
-        "name":"Robust Single link Robot Arm control using PID-AFC controller",
-        "date":"April 14 2022",
-        "image":"https://i.ibb.co/Rgx8DTr/Robust-Single-link.jpg",
-        "category":"robotics",
-        "link":"https://drive.google.com/file/d/1tJKCPlDG3DdqYdUCMBalKfVU8yRvOret/view",
-        "intro":"A Robust Single Link Robot Arm Control System utilizing a PID-AFC controller was successfully developed to exhibit better performance even in the presence of external disturbances. To optimize the controller's performance, extensive efforts were made in tuning its parameters, ensuring the system's ability to maintain stability and precision in various operating conditions. The novel PID-AFC controller represents a significant advancement in robotic control technology, promising enhanced reliability and accuracy for single-link robot arms in diverse applications."
-    },
-    {
-        "id":7,
-        "name":"Automated 3D Printing Loading-Unloading with Collaborative Robot Arm",
-        "date":"Jan 18 2023",
-        "image":"https://i.ibb.co/wQqhQ8V/Automated-3-D-Printing.jpg",
-        "link":"https://drive.google.com/file/d/1K0B-uKboF7xZRzBNgk6MJG7lTkhfvH9h/view",
-        "category":"robotics",
-        "intro":"Automated 3D Printing Loading-Unloading System was successfully developed, featuring a collaborative UR Robot arm, specifically designed to streamline mass production in a 3D printing farm. The system efficiently handles the loading and unloading processes, enhancing overall productivity and reducing manual intervention, thereby contributing to a more seamless and cost-effective manufacturing workflow."
-    },
-    {
-        "id":8,
-        "name":"Founding Member, UTM AIROST Club, Malaysia UTM",
-        "date":"Feb 4 2019",
-        "image":"https://i.ibb.co/v3xmkYH/UTM-AIROST-Club.jpg",
-        "category":"Social",
-        "link":"https://fke.utm.my/airost/?fbclid=IwAR1L77HQ3rdNNxy_T1sU14D0xN_m0erqIWRT1QSBL0beWH4YVR2vn0-5QaE",
-        "intro":"UTM Airost Team is a group of people who provide a platform for student to discover their interest and talent in engineering, technology, and entrepreneurship."
-    },
-    {
-        "id":9,
-        "name":"Leadership & Community",
-        "date":"Nov 28 2018",
-        "image":"https://i.ibb.co/8zhc4c6/Leadership-Community.png",
-        "link":"",
-        "category":"Social",
-        "intro":"The event began on November 28th in Pulau Tanjung Surat and lasted for 3 days. It was organized by Dr. Azurah and Puan Hanah under a funded project for community service, aiming to provide electricity and hygienic toilets to Tanjung Surat Raft House Village in Johor. The primary focus of the program was to help university students develop strong leadership and interpersonal skills through intensive community and leadership work. It marked the very first community program in my university life, and as the technical lead, I was responsible for overseeing all technical aspects, including the setup of solar panels and compost toilets in a rumah rakit on Pulau Tanjung Surat. The program turned out to be a wonderful and memorable experience for myself and my team mates"
-    },
-    {
-        "id":10,
-        "name":"URO ITB",
-        "date":"Dec 4, 2019",
-        "image":"https://mfadhilgtg.github.io/project/uro/featured_hu39c4763b8ad567eeadcd25b93e1b8c6e_243502_720x0_resize_q90_lanczos.jpg",
-        "category":"Social",
-        "intro":"Robotics Student Organization, Bandung Institute of Technology"
-    },
-    {
-        "id":11,
-        "name":"Real time Vision-Based Traffic Management Analytics Solution for the causeway traffic prediction",
-        "date":"Sep 18 2019",
-        "image":"https://i.ibb.co/bWLvZcW/real-time.jpg",
-        "link":"https://youtu.be/8q8k4Y5iosE",
-        "category":"AI",
-        "intro":"A real-time vision-based traffic analytics system uses Fast R-CNN-based vehicle detection and counting algorithms to optimize traffic control and provide valuable insights for future traffic predictions."
-    },
-    {
-        "id":12,
-        "name":"Deep Port Vision smart shipping container management with AI",
-        "date":"Nov 25 2020",
-        "image":"https://i.ibb.co/fHQpkQj/deep-port.jpg",
-        "category":"AI",
-        "link":"https://www.youtube.com/watch?v=mcXLkAD0Dlk&feature=youtu.be",
-        "intro":"To enhance port efficiency and safety, they introduced Deep Port Vision, an AI-powered smart shipping container management system with features such as automated container code recognition, physical damage detection, real-time monitoring dashboard, and predictive detection through big data analysis, resulting in improved operational efficiency, reduced labor requirements, fewer workplace injuries, and prevention of human errors."
-    },
-    {
-        "id":13,
-        "name":"BBCare (Portable IoT Fetal Monitoring System)",
-        "date":"Dec 18 2018",
-        "image":"https://i.ibb.co/PTyBRYp/bbcare.jpg",
-        "category":"AI",
-        "link":"https://shithil222.wixsite.com/bbcare",
-        "intro":"BBCare is a smart portable IOT device to monitor and analyze the fetal heart condition. It has AI smart sensing technology. Besides, this device is also able to monitor the condition of the fetal in real time by using a mobile based application which is connected wirelessly to the BBcare device. It will give alert messages to mother and doctor if she needs to go to hospital so that born before arrival cant'be eradicated."
-    },
-    {
-        "id":14,
-        "name":"Indoor Air Quality Monitoring IOT Device",
-        "date":"Dec 4, 2019",
-        "image":"https://i.ibb.co/8jNNRRF/indoor-air-quality.jpg",
-        "category":"AI",
-        "link":"https://youtu.be/L0VK_HJqbcI",
-        "intro":"The Indoor Air Quality Monitoring IoT Device was designed and developed, encompassing both the hardware and software systems. It incorporates various sensors to measure crucial indoor air quality parameters such as temperature, humidity, carbon monoxide, and volatile organic compounds. This comprehensive approach ensures accurate and reliable monitoring of indoor air conditions, contributing to improved safety and comfort for the occupants."
-    },
-    {
-        "id":15,
-        "name":"Load Cell Instrumentation System",
-        "date":"Jan 10 2022",
-        "image":"https://i.ibb.co/FBCb8Wn/Load-Cell-Instrumentation-System.jpg",
-        "category":"AI",
-        "link":"https://www.youtube.com/watch?v=eC1M-cGjdV4",
-        "intro":"The Load Cell Instrumentation System is designed as an instrumentation circuit using operational amplifiers, enabling accurate and efficient load cell measurements for diverse applications."
-    },
-    {
-
     }
 ]

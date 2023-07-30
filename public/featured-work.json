@@ -1,6 +1,6 @@
 [
     {
-        "id":1,
+        "id":"1",
         "name":"Innovative X3CATOR Robot by UTM and JBPM Utilizes AI and 3D Mapping for Early Reconnaissance in Hazardous Situations",
         "site":"https://news.utm.my/2023/03/revolutionary-x3cator-robot-by-utm-and-jbpm-utilizes-ai-and-3d-mapping-for-early-reconnaissance-in-hazardous-situations/",
         "date":"March 1 2023",
@@ -11,8 +11,7 @@
         "video":"https://youtu.be/SaSMeDtTYQY"
     },
     {
-        
-        "id":2,
+        "id":"2",
         "name":"KAROS: Indoor Inspection Aerial Robot for Confined Indoor Areas",
         "site":"https://drive.google.com/file/d/1Cxq__q4oH8SUIn9cDYT1HOgxz2RwoWK9/view?pli=1",
         "date":"Sep 12 2022",
@@ -23,7 +22,7 @@
         "category":"robotics"
     },
     {
-        "id":3,
+        "id":"3",
         "name":"Vision Guided Charging Dock system for an Autonomous Mobile Robot (AMR)",
         "site":"https://youtu.be/JyiSfSpfnSA",
         "date":"Aug 12 2018",
@@ -33,7 +32,7 @@
         "category":"robotics"
     },
     {
-        "id":4,
+        "id":"4",
         "name":"LUMINUV-PORTABLE Autonomous UVC Disinfection Robot",
         "site":"https://youtu.be/SuiXqGpDcBQ",
         "date":"Dec 21 2020",
@@ -43,7 +42,7 @@
         "category":"robotics"
     },
     {
-        "id":5,
+        "id":"5",
         "name":"Last-Mile Parcel Delivery Robot",
         "site":"https://youtu.be/r2B8PaapsrM",
         "date":"Oct 10, 2020",
@@ -51,97 +50,5 @@
         "description":"Last-mile delivery distribution is the greatest obstacle faced by logistics firms in the entire process of shipping goods to customers. Damaged goods, unsuccessful distribution, and elevated traffic congestion are one of the concerns facing last-mile delivery. Last-mile delivery is both costly and challenging, and it can also damage the impression of the buyer of the entire shopping experience. Many businesses have turned to the use of delivery robots for delivery purposes with the ever-growing complexities of last-mile delivery. Robots are being designed, for example, to carry anything from food orders to packages. Because of the following advantages, the transformation of logistics towards the use of delivery robots is gaining attention. While I was working as a master trainer in a robotics training program at Polytechnic Sultan Azlan Shah (PSAS) Institute, I was involved in the development of last-mile parcel delivery robot. We have transformed an electric cart to an autonomous delivery robot. We have integrated wide variety of sensor like 3D lidar, RTK GPS, Stereo-Camera, Radar, IMU, and so on. For the main onboard computation Intel NUC was used. The crucial part of the development was navigation planning, we have implemented RTAB-Map (Real-Time Appearance-Based Mapping) using 16 channel 3D Lidar. Moreover, stereo and monocular vision will be used for lane tracking and pedestrian detection. Currently, we are working to integrate the global map of the planner with google map for point to point navigation. The development of this project is ongoing.",
         "intro":"Last-Mile Autonomous Parcel Delivery Robot",
         "category":"robotics"
-    },
-    {
-        "id":6,
-        "name":"Robust Single link Robot Arm control using PID-AFC controller",
-        "date":"April 14 2022",
-        "image":"https://i.ibb.co/Rgx8DTr/Robust-Single-link.jpg",
-        "category":"robotics",
-        "link":"https://drive.google.com/file/d/1tJKCPlDG3DdqYdUCMBalKfVU8yRvOret/view",
-        "intro":"A Robust Single Link Robot Arm Control System utilizing a PID-AFC controller was successfully developed to exhibit better performance even in the presence of external disturbances. To optimize the controller's performance, extensive efforts were made in tuning its parameters, ensuring the system's ability to maintain stability and precision in various operating conditions. The novel PID-AFC controller represents a significant advancement in robotic control technology, promising enhanced reliability and accuracy for single-link robot arms in diverse applications."
-    },
-    {
-        "id":7,
-        "name":"Automated 3D Printing Loading-Unloading with Collaborative Robot Arm",
-        "date":"Jan 18 2023",
-        "image":"https://i.ibb.co/wQqhQ8V/Automated-3-D-Printing.jpg",
-        "link":"https://drive.google.com/file/d/1K0B-uKboF7xZRzBNgk6MJG7lTkhfvH9h/view",
-        "category":"robotics",
-        "intro":"Automated 3D Printing Loading-Unloading System was successfully developed, featuring a collaborative UR Robot arm, specifically designed to streamline mass production in a 3D printing farm. The system efficiently handles the loading and unloading processes, enhancing overall productivity and reducing manual intervention, thereby contributing to a more seamless and cost-effective manufacturing workflow."
-    },
-    {
-        "id":8,
-        "name":"Founding Member, UTM AIROST Club, Malaysia UTM",
-        "date":"Feb 4 2019",
-        "image":"https://i.ibb.co/v3xmkYH/UTM-AIROST-Club.jpg",
-        "category":"Social",
-        "link":"https://fke.utm.my/airost/?fbclid=IwAR1L77HQ3rdNNxy_T1sU14D0xN_m0erqIWRT1QSBL0beWH4YVR2vn0-5QaE",
-        "intro":"UTM Airost Team is a group of people who provide a platform for student to discover their interest and talent in engineering, technology, and entrepreneurship."
-    },
-    {
-        "id":9,
-        "name":"Leadership & Community",
-        "date":"Nov 28 2018",
-        "image":"https://i.ibb.co/8zhc4c6/Leadership-Community.png",
-        "link":"",
-        "category":"Social",
-        "intro":"The event began on November 28th in Pulau Tanjung Surat and lasted for 3 days. It was organized by Dr. Azurah and Puan Hanah under a funded project for community service, aiming to provide electricity and hygienic toilets to Tanjung Surat Raft House Village in Johor. The primary focus of the program was to help university students develop strong leadership and interpersonal skills through intensive community and leadership work. It marked the very first community program in my university life, and as the technical lead, I was responsible for overseeing all technical aspects, including the setup of solar panels and compost toilets in a rumah rakit on Pulau Tanjung Surat. The program turned out to be a wonderful and memorable experience for myself and my team mates"
-    },
-    {
-        "id":10,
-        "name":"URO ITB",
-        "date":"Dec 4, 2019",
-        "image":"https://mfadhilgtg.github.io/project/uro/featured_hu39c4763b8ad567eeadcd25b93e1b8c6e_243502_720x0_resize_q90_lanczos.jpg",
-        "category":"Social",
-        "intro":"Robotics Student Organization, Bandung Institute of Technology"
-    },
-    {
-        "id":11,
-        "name":"Real time Vision-Based Traffic Management Analytics Solution for the causeway traffic prediction",
-        "date":"Sep 18 2019",
-        "image":"https://i.ibb.co/bWLvZcW/real-time.jpg",
-        "link":"https://youtu.be/8q8k4Y5iosE",
-        "category":"AI",
-        "intro":"A real-time vision-based traffic analytics system uses Fast R-CNN-based vehicle detection and counting algorithms to optimize traffic control and provide valuable insights for future traffic predictions."
-    },
-    {
-        "id":12,
-        "name":"Deep Port Vision smart shipping container management with AI",
-        "date":"Nov 25 2020",
-        "image":"https://i.ibb.co/fHQpkQj/deep-port.jpg",
-        "category":"AI",
-        "link":"https://www.youtube.com/watch?v=mcXLkAD0Dlk&feature=youtu.be",
-        "intro":"To enhance port efficiency and safety, they introduced Deep Port Vision, an AI-powered smart shipping container management system with features such as automated container code recognition, physical damage detection, real-time monitoring dashboard, and predictive detection through big data analysis, resulting in improved operational efficiency, reduced labor requirements, fewer workplace injuries, and prevention of human errors."
-    },
-    {
-        "id":13,
-        "name":"BBCare (Portable IoT Fetal Monitoring System)",
-        "date":"Dec 18 2018",
-        "image":"https://i.ibb.co/PTyBRYp/bbcare.jpg",
-        "category":"AI",
-        "link":"https://shithil222.wixsite.com/bbcare",
-        "intro":"BBCare is a smart portable IOT device to monitor and analyze the fetal heart condition. It has AI smart sensing technology. Besides, this device is also able to monitor the condition of the fetal in real time by using a mobile based application which is connected wirelessly to the BBcare device. It will give alert messages to mother and doctor if she needs to go to hospital so that born before arrival cant'be eradicated."
-    },
-    {
-        "id":14,
-        "name":"Indoor Air Quality Monitoring IOT Device",
-        "date":"Dec 4, 2019",
-        "image":"https://i.ibb.co/8jNNRRF/indoor-air-quality.jpg",
-        "category":"AI",
-        "link":"https://youtu.be/L0VK_HJqbcI",
-        "intro":"The Indoor Air Quality Monitoring IoT Device was designed and developed, encompassing both the hardware and software systems. It incorporates various sensors to measure crucial indoor air quality parameters such as temperature, humidity, carbon monoxide, and volatile organic compounds. This comprehensive approach ensures accurate and reliable monitoring of indoor air conditions, contributing to improved safety and comfort for the occupants."
-    },
-    {
-        "id":15,
-        "name":"Load Cell Instrumentation System",
-        "date":"Jan 10 2022",
-        "image":"https://i.ibb.co/FBCb8Wn/Load-Cell-Instrumentation-System.jpg",
-        "category":"AI",
-        "link":"https://www.youtube.com/watch?v=eC1M-cGjdV4",
-        "intro":"The Load Cell Instrumentation System is designed as an instrumentation circuit using operational amplifiers, enabling accurate and efficient load cell measurements for diverse applications."
-    },
-    {
-
     }
 ]

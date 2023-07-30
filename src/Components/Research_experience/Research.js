@@ -1,18 +1,24 @@
 import React from 'react'
 import './research.css'
 const Research = ({ research }) => {
-  const { id, title, description, date, img, url, slides } = research;
+  const { id, title, description, date, image, url, slides } = research
 
-    const handleRedirect = (url) =>{
-
-    }
+  const handleRedirect = url => {}
 
   return (
     <div style={{ marginBottom: '4rem' }}>
       <section className='d-flex '>
         <div className='me-5'>
           <a className='research_title' href={url} target='_blank'>
-             <h3 style={{ fontSize: '1.8rem', fontWeight: 'bold',cursor:'pointer' }}>{title}</h3>
+            <h3
+              style={{
+                fontSize: '1.8rem',
+                fontWeight: 'bold',
+                cursor: 'pointer'
+              }}
+            >
+              {title}
+            </h3>
           </a>
           <p
             style={{
@@ -37,7 +43,7 @@ const Research = ({ research }) => {
           </div>
         </div>
         <div>
-          <img src={img} alt='' />
+          <img style={{ width: '150px', height: '90px' }} src={image} alt='' />
         </div>
       </section>
     </div>
