@@ -22,7 +22,7 @@ const FeaturedWorks = () => {
           paddingRight: '150px'
         }}
       >
-        <section style={{ marginRight: '155px' }}>
+        <section style={{ marginRight: '450px' }}>
           <p
             style={{
               fontSize: '2.90rem',
