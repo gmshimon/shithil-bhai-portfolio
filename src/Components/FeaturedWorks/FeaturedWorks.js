@@ -13,7 +13,7 @@ const FeaturedWorks = () => {
   }, [])
 
   return (
-    <main style={{ marginTop: '', backgroundColor: 'white' }}>
+    <main id='features' style={{ marginTop: '', backgroundColor: 'white' }}>
       <div
         className='d-flex justify-content-center'
         style={{

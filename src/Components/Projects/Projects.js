@@ -17,7 +17,6 @@ const Projects = () => {
             roboticsProject.push(element)
           }
         })
-        setProjects([])
         setProjects(roboticsProject)
         if (buttonName === 'All') {
           setProjects(data)
@@ -30,7 +29,10 @@ const Projects = () => {
   }
 
   return (
-    <main style={{ marginTop: '', backgroundColor: 'white' }}>
+    <main
+      id='projects'
+      style={{ marginTop: '', backgroundColor: 'rgb(247,247,247)' }}
+    >
       <div
         className='d-flex justify-content-center'
         style={{

@@ -10,7 +10,10 @@ const Publications = () => {
       .then(data => setPublications(data))
   }, [])
   return (
-    <main style={{ marginTop: '110px', backgroundColor: 'rgb(247,247,247)' }}>
+    <main
+      id='publications'
+      style={{ marginTop: '110px', backgroundColor: 'rgb(247,247,247)' }}
+    >
       <div
         className='d-flex justify-content-center'
         style={{

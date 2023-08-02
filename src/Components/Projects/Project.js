@@ -1,14 +1,26 @@
-import React from 'react';
+import React from 'react'
 
-const Project = ({project}) => {
-    const {id,name,intro,image,category,site} = project;
-    console.log(project);
-    return (
-        <div style={{ marginBottom: '4rem' }}>
+const Project = ({ project }) => {
+  const { id, name, intro, image, category, site } = project
+  console.log(project)
+  return (
+    <div style={{ marginBottom: '4rem' }}>
       <section className='d-flex '>
-        <div className='me-5'>
-          <a className='research_title' href={category==="Robotics"&&site} target='_blank'>
-             <h3 style={{ fontSize: '1.8rem', fontWeight: 'bold',cursor:'pointer' }}>{name}</h3>
+        <div className='me-5' style={{ width: '700px' }}>
+          <a
+            className='research_title'
+            href={category === 'Robotics' && site}
+            target='_blank'
+          >
+            <h3
+              style={{
+                fontSize: '1.8rem',
+                fontWeight: 'bold',
+                cursor: 'pointer'
+              }}
+            >
+              {name}
+            </h3>
           </a>
           <p
             style={{
@@ -22,11 +34,11 @@ const Project = ({project}) => {
           </p>
         </div>
         <div>
-          <img style={{width:'150px',height:'75px'}} src={image} alt='' />
+          <img style={{ width: '150px', height: '75px' }} src={image} alt='' />
         </div>
       </section>
     </div>
-    );
-};
+  )
+}
 
-export default Project;
+export default Project

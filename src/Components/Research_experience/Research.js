@@ -1,14 +1,14 @@
 import React from 'react'
 import './research.css'
 const Research = ({ research }) => {
-  const { id, title, description, date, image, url, slides } = research
-
+  const { id, title, description, date, image, position, url, slides } =
+    research
   const handleRedirect = url => {}
 
   return (
     <div style={{ marginBottom: '4rem' }}>
       <section className='d-flex '>
-        <div className='me-5'>
+        <div className='me-5' style={{ width: '600px' }}>
           <a className='research_title' href={url} target='_blank'>
             <h3
               style={{
@@ -30,6 +30,16 @@ const Research = ({ research }) => {
           >
             {description}
           </p>
+          <div>
+            <p
+              className='fw-bold'
+              style={{ fontFamily: 'Roboto sans-serif', fontSize: '20px' }}
+            >
+              <span>Position</span>
+              {': '}
+              <span className='fst-italic'>{position}</span>
+            </p>
+          </div>
           <div style={{ marginTop: '17px' }}>
             <span
               style={{
@@ -43,7 +53,7 @@ const Research = ({ research }) => {
           </div>
         </div>
         <div>
-          <img style={{ width: '150px', height: '90px' }} src={image} alt='' />
+          <img style={{ width: '100px', height: '90px' }} src={image} alt='' />
         </div>
       </section>
     </div>
