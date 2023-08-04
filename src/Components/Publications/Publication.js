@@ -1,9 +1,12 @@
 import React from 'react'
+import { useNavigate } from 'react-router-dom'
 import './Publication.css'
 import { Button } from 'react-bootstrap'
 
 const Publication = ({ publication }) => {
+  const navigate = useNavigate()
   const {
+    id,
     title,
     abstract,
     authors,
@@ -16,7 +19,11 @@ const Publication = ({ publication }) => {
   return (
     <section className='d-flex mb-5'>
       <div className='me-4' style={{ width: '600px' }}>
-        <h3 className='title' style={{ fontSize: '1.8rem', fontWeight: '700' }}>
+        <h3
+          onClick={() => navigate(`/publications/${id}`)}
+          className='title'
+          style={{ fontSize: '1.8rem', fontWeight: '700' }}
+        >
           {title}
         </h3>
         <p style={{ fontSize: '1.2rem', color: 'inherit', fontWeight: '400' }}>
@@ -32,18 +39,12 @@ const Publication = ({ publication }) => {
         >
           {authors}
         </p>
-        <a
-          href='https://drive.google.com/file/d/1QMgS6tilcWkNhCEPxk9rlETOr7U6ZeSw/view'
-          target='_blank'
-        >
+        <a href={pdf} target='_blank'>
           <Button className='me-3' variant='outline-primary'>
             PDF
           </Button>
         </a>
-        <a
-          href='https://drive.google.com/file/d/1QMgS6tilcWkNhCEPxk9rlETOr7U6ZeSw/view'
-          target='_blank'
-        >
+        <a href={video} target='_blank'>
           <Button variant='outline-primary'>Video</Button>
         </a>
       </div>

@@ -1,22 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from './Components/Header/Header';
-import Banner from './Components/Banner/Banner';
-import Publications from './Components/Publications/Publications';
-import { Route, Routes } from 'react-router-dom';
-import Home from './Components/Home/Home';
+import logo from './logo.svg'
+import './App.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
+import Header from './Components/Header/Header'
+import Banner from './Components/Banner/Banner'
+import Publications from './Components/Publications/Publications'
+import { Route, Routes } from 'react-router-dom'
+import Home from './Components/Home/Home'
+import Publication from './Components/Publications/Publication'
+import SinglePublication from './Components/Publications/SinglePublication/SinglePublication'
 
-function App() {
+function App () {
   return (
-    <div className="">
-      <Header className="mb-4"></Header>
-      <br/>
+    <div className=''>
+      <Header className='mb-4'></Header>
+      <br />
       <Routes>
-        <Route path="/" element={<Home></Home>}></Route>
+        <Route path='/' element={<Home></Home>}></Route>
+        {/* <Route
+          path='/#publications'
+          element={<Publications id='publications'></Publications>}
+        ></Route> */}
+        <Route
+          path='/publications/:id'
+          element={<SinglePublication></SinglePublication>}
+        ></Route>
       </Routes>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

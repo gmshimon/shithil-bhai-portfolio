@@ -90,14 +90,6 @@
     },
     {
         "id":10,
-        "name":"URO ITB",
-        "date":"Dec 4, 2019",
-        "image":"https://mfadhilgtg.github.io/project/uro/featured_hu39c4763b8ad567eeadcd25b93e1b8c6e_243502_720x0_resize_q90_lanczos.jpg",
-        "category":"Social",
-        "intro":"Robotics Student Organization, Bandung Institute of Technology"
-    },
-    {
-        "id":11,
         "name":"Real time Vision-Based Traffic Management Analytics Solution for the causeway traffic prediction",
         "date":"Sep 18 2019",
         "image":"https://i.ibb.co/bWLvZcW/real-time.jpg",
@@ -106,7 +98,7 @@
         "intro":"A real-time vision-based traffic analytics system uses Fast R-CNN-based vehicle detection and counting algorithms to optimize traffic control and provide valuable insights for future traffic predictions."
     },
     {
-        "id":12,
+        "id":11,
         "name":"Deep Port Vision smart shipping container management with AI",
         "date":"Nov 25 2020",
         "image":"https://i.ibb.co/fHQpkQj/deep-port.jpg",
@@ -115,7 +107,7 @@
         "intro":"To enhance port efficiency and safety, they introduced Deep Port Vision, an AI-powered smart shipping container management system with features such as automated container code recognition, physical damage detection, real-time monitoring dashboard, and predictive detection through big data analysis, resulting in improved operational efficiency, reduced labor requirements, fewer workplace injuries, and prevention of human errors."
     },
     {
-        "id":13,
+        "id":12,
         "name":"BBCare (Portable IoT Fetal Monitoring System)",
         "date":"Dec 18 2018",
         "image":"https://i.ibb.co/PTyBRYp/bbcare.jpg",
@@ -124,7 +116,7 @@
         "intro":"BBCare is a smart portable IOT device to monitor and analyze the fetal heart condition. It has AI smart sensing technology. Besides, this device is also able to monitor the condition of the fetal in real time by using a mobile based application which is connected wirelessly to the BBcare device. It will give alert messages to mother and doctor if she needs to go to hospital so that born before arrival cant'be eradicated."
     },
     {
-        "id":14,
+        "id":13,
         "name":"Indoor Air Quality Monitoring IOT Device",
         "date":"Dec 4, 2019",
         "image":"https://i.ibb.co/8jNNRRF/indoor-air-quality.jpg",
@@ -133,7 +125,7 @@
         "intro":"The Indoor Air Quality Monitoring IoT Device was designed and developed, encompassing both the hardware and software systems. It incorporates various sensors to measure crucial indoor air quality parameters such as temperature, humidity, carbon monoxide, and volatile organic compounds. This comprehensive approach ensures accurate and reliable monitoring of indoor air conditions, contributing to improved safety and comfort for the occupants."
     },
     {
-        "id":15,
+        "id":14,
         "name":"Load Cell Instrumentation System",
         "date":"Jan 10 2022",
         "image":"https://i.ibb.co/FBCb8Wn/Load-Cell-Instrumentation-System.jpg",

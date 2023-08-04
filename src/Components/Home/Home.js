@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import Banner from '../Banner/Banner'
 import Publications from '../Publications/Publications'
 import FeaturedWorks from '../FeaturedWorks/FeaturedWorks'
@@ -7,6 +7,15 @@ import Researches from '../Research_experience/Researches'
 import Projects from '../Projects/Projects'
 
 const Home = () => {
+  useEffect(() => {
+    // Check if there's a hash in the URL
+    if (window.location.hash) {
+      const targetElement = document.querySelector(window.location.hash)
+      if (targetElement) {
+        targetElement.scrollIntoView({ behavior: 'smooth' })
+      }
+    }
+  }, [])
   return (
     <div>
       <Banner></Banner>
