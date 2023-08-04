@@ -8,6 +8,7 @@ import { Route, Routes } from 'react-router-dom'
 import Home from './Components/Home/Home'
 import Publication from './Components/Publications/Publication'
 import SinglePublication from './Components/Publications/SinglePublication/SinglePublication'
+import SingleFeatured from './Components/FeaturedWorks/SingleFeaturedWork/SingleFeatured'
 
 function App () {
   return (
@@ -23,6 +24,10 @@ function App () {
         <Route
           path='/publications/:id'
           element={<SinglePublication></SinglePublication>}
+        ></Route>
+        <Route
+          path='/feature-work/:id'
+          element={<SingleFeatured></SingleFeatured>}
         ></Route>
       </Routes>
     </div>

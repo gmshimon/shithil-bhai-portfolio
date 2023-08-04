@@ -1,9 +1,12 @@
 import React from 'react'
 import './work.css'
 import { Button } from 'react-bootstrap'
+import { useNavigate } from 'react-router-dom'
 
 const Work = ({ work }) => {
   const { id, name, date, site, image, description, category, intro } = work
+
+  const navigate = useNavigate()
   return (
     <section className='work-container'>
       <div>
@@ -27,6 +30,7 @@ const Work = ({ work }) => {
           </a>
         </div>
         <h3
+          onClick={() => navigate(`/feature-work/${id}`)}
           className='title'
           style={{
             marginTop: '15px',
