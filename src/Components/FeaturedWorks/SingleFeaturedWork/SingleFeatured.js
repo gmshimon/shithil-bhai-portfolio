@@ -49,7 +49,7 @@ const SingleFeatured = () => {
             marginTop: '10px'
           }}
         >
-          {date}
+          {date} +1
         </p>
 
         <Button variant='outline-primary'>
