@@ -53,7 +53,20 @@ const Research = ({ research }) => {
           </div>
         </div>
         <div>
-          <img style={{ width: '100px', height: '90px' }} src={image} alt='' />
+          {title ===
+          'Centre for Artificial Intelligence and Robotics (CAIRO)' ? (
+            <img
+              style={{ width: '120px', height: '90px' }}
+              src={image}
+              alt=''
+            />
+          ) : (
+            <img
+              style={{ width: '100px', height: '90px' }}
+              src={image}
+              alt=''
+            />
+          )}
         </div>
       </section>
     </div>

@@ -1,8 +1,11 @@
 import { faCoffee, faFootballBall } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { SiGooglescholar } from 'react-icons/si'
 import React from 'react'
 import './Banner.css'
+import { ProgressBar } from 'react-bootstrap'
 const Banner = () => {
+  const now = 60
   return (
     <main>
       <section className='d-flex justify-content-center mt-5'>
@@ -10,12 +13,12 @@ const Banner = () => {
           <div>
             <img
               style={{
-                marginLeft: '110px',
+                marginLeft: '180px',
                 width: '300px',
                 height: '300px',
                 borderRadius: '50%'
               }}
-              src={require('../../Image/shithil_bhai_dp.png')}
+              src={require('../../Image/shithil_bhai_dp.jpg')}
               alt='profile'
             />
           </div>
@@ -46,29 +49,169 @@ const Banner = () => {
           </div>
           <div className='d-flex justify-content-center'>
             <div className='d-flex mt-4 icon-container'>
-              <div className='me-3' style={{ width: '30px' }}>
-                <i
-                  className='fa-brands fa-linkedin fa-2xl icons'
-                  style={{ color: '#015af4' }}
-                ></i>
+              <div className='me-4' style={{ width: '30px' }}>
+                <a
+                  href='https://www.linkedin.com/in/shaekh-shithil-2ba4ba1a4?original_referer=https%3A%2F%2Fwww.google.com%2F'
+                  target='_blank'
+                >
+                  <i
+                    className='fa-brands fa-linkedin fa-2xl icons'
+                    style={{ color: '#015af4' }}
+                  ></i>
+                </a>
               </div>
-              <div className='me-3' style={{ width: '30px' }}>
-                <i
-                  className='fa-brands fa-square-facebook fa-2xl icons'
-                  style={{ color: '#015af4' }}
-                ></i>
+              <div className='me-4' style={{ width: '30px' }}>
+                <a href='https://github.com/shaekhShithil' target='_blank'>
+                  <i
+                    className='fa-brands fa-github fa-2xl icons'
+                    style={{ color: '#015af4' }}
+                  ></i>
+                </a>
               </div>
-              <div style={{ width: '30px' }}>
-                <i
-                  className='fa-brands fa-instagram fa-2xl icons'
-                  style={{ color: '#015af4' }}
-                ></i>
+              <div style={{ width: '30px', marginTop: '-2px', height: '30px' }}>
+                <a
+                  href='https://scholar.google.com/citations?user=x8MM8c4AAAAJ&hl=en'
+                  target='_blank'
+                >
+                  <i className='fa-2xl icons' style={{ color: '#015af4' }}>
+                    <SiGooglescholar />
+                  </i>
+                </a>
               </div>
+            </div>
+          </div>
+          <div
+            className='d-flex justify-content-around'
+            style={{ marginTop: '50px' }}
+          >
+            <div style={{ width: '300px', marginRight: '50px' }}>
+              <span
+                style={{
+                  fontSize: '20px',
+                  fontWeight: '500'
+                }}
+              >
+                C++
+              </span>
+              <ProgressBar
+                animated
+                variant='black'
+                now='80'
+                label={`80%`}
+                style={{ fontSize: '20px', marginBottom: '15px' }}
+              ></ProgressBar>
+              <span
+                style={{
+                  fontSize: '20px',
+                  fontWeight: '500'
+                }}
+              >
+                Python
+              </span>
+              <ProgressBar
+                animated
+                variant='black'
+                now='70'
+                label={`70%`}
+                style={{ fontSize: '20px', marginBottom: '15px' }}
+              ></ProgressBar>
+              <span
+                style={{
+                  fontSize: '20px',
+                  fontWeight: '500'
+                }}
+              >
+                ROS
+              </span>
+              <ProgressBar
+                animated
+                variant='black'
+                now='80'
+                label={`80%`}
+                style={{ fontSize: '20px', marginBottom: '15px' }}
+              ></ProgressBar>
+              <span
+                style={{
+                  fontSize: '20px',
+                  fontWeight: '500'
+                }}
+              >
+                Computer Vision
+              </span>
+              <ProgressBar
+                animated
+                variant='black'
+                now='70'
+                label={`70%`}
+                style={{ fontSize: '20px', marginBottom: '15px' }}
+              ></ProgressBar>
+            </div>
+            <div style={{ width: '300px' }}>
+              <span
+                style={{
+                  fontSize: '20px',
+                  fontWeight: '500'
+                }}
+              >
+                Autonomous Robot
+              </span>
+              <ProgressBar
+                animated
+                variant='black'
+                now='70'
+                label={`70%`}
+                style={{ fontSize: '20px', marginBottom: '15px' }}
+              ></ProgressBar>
+              <span
+                style={{
+                  fontSize: '20px',
+                  fontWeight: '500'
+                }}
+              >
+                ML and DL
+              </span>
+              <ProgressBar
+                animated
+                variant='black'
+                now='60'
+                label={`60%`}
+                style={{ fontSize: '20px', marginBottom: '15px' }}
+              ></ProgressBar>
+              <span
+                style={{
+                  fontSize: '20px',
+                  fontWeight: '500'
+                }}
+              >
+                IOT
+              </span>
+              <ProgressBar
+                animated
+                variant='black'
+                now='60'
+                label={`60%`}
+                style={{ fontSize: '20px', marginBottom: '15px' }}
+              ></ProgressBar>
+              <span
+                style={{
+                  fontSize: '20px',
+                  fontWeight: '500'
+                }}
+              >
+                SolidWorks
+              </span>
+              <ProgressBar
+                animated
+                variant='black'
+                now='40'
+                label={`40%`}
+                style={{ fontSize: '20px', marginBottom: '15px' }}
+              ></ProgressBar>
             </div>
           </div>
         </section>{' '}
         {/* end of the left container */}
-        <section className='' style={{ width: '800px', marginLeft: '140px' }}>
+        <section className='' style={{ width: '800px', marginLeft: '270px' }}>
           <div className='mb-3'>
             <h1
               style={{

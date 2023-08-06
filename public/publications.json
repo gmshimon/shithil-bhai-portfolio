@@ -28,7 +28,6 @@
         "type_of_publications":"Manuscript",
         "published":"2020",
         "pdf":"https://doi.org/10.1101/2020.04.08.20057463",
-        "video":"https://www.youtube.com/watch?v=Y1ONoLIfnyM",
         "image":"https://i.ibb.co/W6T5W0r/publications-3.jpg"
     },
     {
@@ -39,12 +38,12 @@
         "type_of_publications":"Manuscript",
         "published":"2022",
         "pdf":"https://ieeexplore.ieee.org/document/9915682/",
-        "video":"https://www.youtube.com/watch?v=Y1ONoLIfnyM",
+        "video":"https://drive.google.com/file/d/1h6Mo56a0abgUAiB96hDHZJTaE4zkeJYg/view?fbclid=IwAR1xAryp0HLptYjOM1nqZVnDn9p5IUP7cGJsr6B1Zmk8lwBbFVD90fZn1rU",
         "image":"https://i.ibb.co/1sm6KZL/publications-4.jpg"
     },
     {
         "id":"5",
-        "title":"Shaekh Mohammad Shithil, Ahmad Ridhwan Kamil, Sadat Tasnim, and Ahmad Athif Faudzi",
+        "title":"Container ISO code recognition system using multiple view based on Google LSTM TESSERACT",
         "abstract":"Springer Lecture Notes in Electrical Engineering",
         "authors":"Shaekh Mohammad Shithil, Ahmad Ridhwan Kamil, Sadat Tasnim, and Ahmad Athif Faudzi",
         "type_of_publications":"Manuscript",

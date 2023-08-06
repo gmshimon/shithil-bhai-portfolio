@@ -1,6 +1,7 @@
-.nav-container{
+.nav-container {
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
-.links:hover{
-    color:rgb(98, 98, 231) !important;
+
+.links:hover {
+    color: rgb(98, 98, 231) !important;
 }

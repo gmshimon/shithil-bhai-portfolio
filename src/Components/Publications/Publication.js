@@ -44,9 +44,11 @@ const Publication = ({ publication }) => {
             PDF
           </Button>
         </a>
-        <a href={video} target='_blank'>
-          <Button variant='outline-primary'>Video</Button>
-        </a>
+        {video && (
+          <a href={video} target='_blank'>
+            <Button variant='outline-primary'>Video</Button>
+          </a>
+        )}
       </div>
       <div>
         <img
