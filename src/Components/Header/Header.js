@@ -8,7 +8,7 @@ const Header = () => {
     <div className='nav-container mb-5'>
       <Navbar fixed='top' bg='dark' variant='dark' expand='lg'>
         <Container>
-          <Navbar.Brand className='me-3 ' href='#home'>
+          <Navbar.Brand className='me-3 ' href='/'>
             Sheikh Shithil
           </Navbar.Brand>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
@@ -17,13 +17,13 @@ const Header = () => {
               <Nav.Link href='/#publications' className='text-white me-3 links'>
                 Publications
               </Nav.Link>
-              <Nav.Link href='#features' className='text-white me-3 links'>
+              <Nav.Link href='/#features' className='text-white me-3 links'>
                 Featured Works
               </Nav.Link>
-              <Nav.Link href='#projects' className='text-white me-3 links'>
+              <Nav.Link href='/#projects' className='text-white me-3 links'>
                 Projects
               </Nav.Link>
-              <Nav.Link href='#research' className='text-white me-3 links'>
+              <Nav.Link href='/#researchs' className='text-white me-3 links'>
                 Research Work
               </Nav.Link>
             </Nav>

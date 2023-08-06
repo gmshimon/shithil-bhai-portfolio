@@ -11,12 +11,13 @@ const SingleFeatured = () => {
 
   const { name, date, site, image, description, category, intro } = featuredWork
   useEffect(() => {
-    fetch('/featured-work.json')
+    fetch('/allProjects.json')
       .then(res => res.json())
       .then(data => {
         setFeaturedWorks(data)
         const result = data.find(dt => dt.id == featuredWorkID)
         setFeaturedWork(result)
+        window.scrollTo(0, 0)
       })
   }, [featuredWorkID])
   return (
@@ -49,7 +50,7 @@ const SingleFeatured = () => {
             marginTop: '10px'
           }}
         >
-          {date} +1
+          {date}
         </p>
 
         <Button variant='outline-primary'>
@@ -96,7 +97,6 @@ const SingleFeatured = () => {
               backgroundColor: '#B4B4B4',
               width: '70px',
               borderRadius: '5px',
-              cursor: 'pointer',
               marginBottom: '50px'
             }}
           >

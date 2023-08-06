@@ -10,10 +10,10 @@ const Researches = () => {
       .then(data => setResearch(data))
   }, [])
 
-  console.log(researches)
+  // console.log(researches)
   return (
     <main
-      id='research'
+      id='researchs'
       style={{ marginTop: '110px', backgroundColor: 'white' }}
     >
       <div

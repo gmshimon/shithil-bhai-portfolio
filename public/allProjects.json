@@ -58,7 +58,7 @@
         "date":"April 14 2022",
         "image":"https://i.ibb.co/Rgx8DTr/Robust-Single-link.jpg",
         "category":"robotics",
-        "link":"https://drive.google.com/file/d/1tJKCPlDG3DdqYdUCMBalKfVU8yRvOret/view",
+        "site":"https://drive.google.com/file/d/1tJKCPlDG3DdqYdUCMBalKfVU8yRvOret/view",
         "intro":"A Robust Single Link Robot Arm Control System utilizing a PID-AFC controller was successfully developed to exhibit better performance even in the presence of external disturbances. To optimize the controller's performance, extensive efforts were made in tuning its parameters, ensuring the system's ability to maintain stability and precision in various operating conditions. The novel PID-AFC controller represents a significant advancement in robotic control technology, promising enhanced reliability and accuracy for single-link robot arms in diverse applications."
     },
     {
@@ -66,7 +66,7 @@
         "name":"Automated 3D Printing Loading-Unloading with Collaborative Robot Arm",
         "date":"Jan 18 2023",
         "image":"https://i.ibb.co/wQqhQ8V/Automated-3-D-Printing.jpg",
-        "link":"https://drive.google.com/file/d/1K0B-uKboF7xZRzBNgk6MJG7lTkhfvH9h/view",
+        "site":"https://drive.google.com/file/d/1K0B-uKboF7xZRzBNgk6MJG7lTkhfvH9h/view",
         "category":"robotics",
         "intro":"Automated 3D Printing Loading-Unloading System was successfully developed, featuring a collaborative UR Robot arm, specifically designed to streamline mass production in a 3D printing farm. The system efficiently handles the loading and unloading processes, enhancing overall productivity and reducing manual intervention, thereby contributing to a more seamless and cost-effective manufacturing workflow."
     },
@@ -76,7 +76,7 @@
         "date":"Feb 4 2019",
         "image":"https://i.ibb.co/v3xmkYH/UTM-AIROST-Club.jpg",
         "category":"Social",
-        "link":"https://fke.utm.my/airost/?fbclid=IwAR1L77HQ3rdNNxy_T1sU14D0xN_m0erqIWRT1QSBL0beWH4YVR2vn0-5QaE",
+        "site":"https://fke.utm.my/airost/?fbclid=IwAR1L77HQ3rdNNxy_T1sU14D0xN_m0erqIWRT1QSBL0beWH4YVR2vn0-5QaE",
         "intro":"UTM Airost Team is a group of people who provide a platform for student to discover their interest and talent in engineering, technology, and entrepreneurship."
     },
     {
@@ -84,7 +84,7 @@
         "name":"Leadership & Community",
         "date":"Nov 28 2018",
         "image":"https://i.ibb.co/8zhc4c6/Leadership-Community.png",
-        "link":"",
+        "site":"",
         "category":"Social",
         "intro":"The event began on November 28th in Pulau Tanjung Surat and lasted for 3 days. It was organized by Dr. Azurah and Puan Hanah under a funded project for community service, aiming to provide electricity and hygienic toilets to Tanjung Surat Raft House Village in Johor. The primary focus of the program was to help university students develop strong leadership and interpersonal skills through intensive community and leadership work. It marked the very first community program in my university life, and as the technical lead, I was responsible for overseeing all technical aspects, including the setup of solar panels and compost toilets in a rumah rakit on Pulau Tanjung Surat. The program turned out to be a wonderful and memorable experience for myself and my team mates"
     },
@@ -93,7 +93,7 @@
         "name":"Real time Vision-Based Traffic Management Analytics Solution for the causeway traffic prediction",
         "date":"Sep 18 2019",
         "image":"https://i.ibb.co/bWLvZcW/real-time.jpg",
-        "link":"https://youtu.be/8q8k4Y5iosE",
+        "site":"https://youtu.be/8q8k4Y5iosE",
         "category":"AI",
         "intro":"A real-time vision-based traffic analytics system uses Fast R-CNN-based vehicle detection and counting algorithms to optimize traffic control and provide valuable insights for future traffic predictions."
     },
@@ -103,7 +103,7 @@
         "date":"Nov 25 2020",
         "image":"https://i.ibb.co/fHQpkQj/deep-port.jpg",
         "category":"AI",
-        "link":"https://www.youtube.com/watch?v=mcXLkAD0Dlk&feature=youtu.be",
+        "site":"https://www.youtube.com/watch?v=mcXLkAD0Dlk&feature=youtu.be",
         "intro":"To enhance port efficiency and safety, they introduced Deep Port Vision, an AI-powered smart shipping container management system with features such as automated container code recognition, physical damage detection, real-time monitoring dashboard, and predictive detection through big data analysis, resulting in improved operational efficiency, reduced labor requirements, fewer workplace injuries, and prevention of human errors."
     },
     {
@@ -112,7 +112,7 @@
         "date":"Dec 18 2018",
         "image":"https://i.ibb.co/PTyBRYp/bbcare.jpg",
         "category":"AI",
-        "link":"https://shithil222.wixsite.com/bbcare",
+        "site":"https://shithil222.wixsite.com/bbcare",
         "intro":"BBCare is a smart portable IOT device to monitor and analyze the fetal heart condition. It has AI smart sensing technology. Besides, this device is also able to monitor the condition of the fetal in real time by using a mobile based application which is connected wirelessly to the BBcare device. It will give alert messages to mother and doctor if she needs to go to hospital so that born before arrival cant'be eradicated."
     },
     {
@@ -121,7 +121,7 @@
         "date":"Dec 4, 2019",
         "image":"https://i.ibb.co/8jNNRRF/indoor-air-quality.jpg",
         "category":"AI",
-        "link":"https://youtu.be/L0VK_HJqbcI",
+        "site":"https://youtu.be/L0VK_HJqbcI",
         "intro":"The Indoor Air Quality Monitoring IoT Device was designed and developed, encompassing both the hardware and software systems. It incorporates various sensors to measure crucial indoor air quality parameters such as temperature, humidity, carbon monoxide, and volatile organic compounds. This comprehensive approach ensures accurate and reliable monitoring of indoor air conditions, contributing to improved safety and comfort for the occupants."
     },
     {
@@ -130,7 +130,7 @@
         "date":"Jan 10 2022",
         "image":"https://i.ibb.co/FBCb8Wn/Load-Cell-Instrumentation-System.jpg",
         "category":"AI",
-        "link":"https://www.youtube.com/watch?v=eC1M-cGjdV4",
+        "site":"https://www.youtube.com/watch?v=eC1M-cGjdV4",
         "intro":"The Load Cell Instrumentation System is designed as an instrumentation circuit using operational amplifiers, enabling accurate and efficient load cell measurements for diverse applications."
     }
 ]

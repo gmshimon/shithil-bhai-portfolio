@@ -24,6 +24,7 @@ const SinglePublication = () => {
         setPublications(data)
         const result = data.find(dt => dt.id == publicationID)
         setPublication(result)
+        window.scrollTo(0, 0)
       })
   }, [publicationID])
   console.log(publicationID)

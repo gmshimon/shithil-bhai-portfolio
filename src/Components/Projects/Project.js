@@ -1,8 +1,10 @@
 import React from 'react'
+import { useNavigate } from 'react-router-dom'
 
 const Project = ({ project }) => {
   const { id, name, intro, image, category, site } = project
-  console.log(project)
+  const navigate = useNavigate()
+  // console.log(project)
   return (
     <div style={{ marginBottom: '4rem' }}>
       <section className='d-flex '>
@@ -18,6 +20,7 @@ const Project = ({ project }) => {
                 fontWeight: 'bold',
                 cursor: 'pointer'
               }}
+              onClick={() => navigate(`/feature-work/${id}`)}
             >
               {name}
             </h3>
